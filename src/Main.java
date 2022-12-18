@@ -9,6 +9,6 @@ public class Main {
         features f=new features();
         f.planet="mars";
         f.temperature=356;
-        f.int;
+        
     }
 }
