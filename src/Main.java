@@ -6,5 +6,9 @@ public class Main {
         XX.moon=1;
         XX.sun=1;
         XX.Planet=2;
+        features f=new features();
+        f.planet="mars";
+        f.temperature=356;
+        f.int;
     }
 }
